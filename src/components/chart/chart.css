@@ -1,0 +1,11 @@
+.chart{
+  margin:20px;
+   box-shadow: 0 0 15px -10px rgba(0, 0, 0, 0.75);
+
+}
+
+.chartTitle{
+    margin: 12px;
+    font-size: 20px;
+    color: rgb(32, 31, 31);
+}

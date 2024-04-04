@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: right;
+    direction: rtl;
+    text-decoration: none;
+}
+
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.link,.link:hover{
+    
+    text-decoration: none;
+    color: inherit;
+}
+

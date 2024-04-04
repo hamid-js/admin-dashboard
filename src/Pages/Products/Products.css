@@ -1,0 +1,10 @@
+.productInfoImg {
+   
+    width: 32px;
+    height: 32px;
+    border-radius: 0%;
+    margin-right: 10px;
+    object-fit: cover;
+
+
+}
